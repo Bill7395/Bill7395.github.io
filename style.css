@@ -3,6 +3,7 @@
 	text-align: center;
 	border:1px solid #000;
 	background: LightSeaGreen;
+	font-family: Arial, sans-serif;
 }
 
 .body_site{
@@ -10,8 +11,23 @@
 	text-align: center;
 	border:1px solid #000;
 	background: LightSeaGreen;
+	font-family: Arial, sans-serif;
 	
 }
+
+.rodape{
+	margin: 10px;
+	text-align: center;
+	border:1px solid #000;
+	background: LightSeaGreen;
+	font-family: Arial, sans-serif;
+}
+
+.rodape p{
+	font-size: 18px;
+	
+}
+
 body{
 	background-color: grey;
 	
