@@ -1,1 +1,13 @@
-.css
+.cabecalho {
+	margin: 10px;
+	text-align: center;
+	border:1px solid #000;
+	
+}
+
+.body_site{
+	margin: 10px;
+	text-align: center;
+	border:1px solid #000;
+	
+}
