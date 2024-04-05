@@ -35,9 +35,25 @@
     cursor: pointer;
     border-radius: 4px;
     outline: none;
-	background-color: grey;
-	color: white;
-	margin-left: 10px;
+}
+
+.primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.secondary {
+    background-color: #6c757d;
+    color: white;
+    margin-top: 10px;
+}
+
+/* Media Query para ajustar botões em telas menores */
+@media screen and (max-width: 600px) {
+    .button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
 }
 
 
