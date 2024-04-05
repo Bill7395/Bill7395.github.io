@@ -28,6 +28,19 @@
 	
 }
 
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    outline: none;
+	background-color: grey;
+	color: white;
+	margin-left: 10px;
+}
+
+
 body{
 	background-color: grey;
 	
